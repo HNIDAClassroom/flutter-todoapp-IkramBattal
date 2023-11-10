@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "666073524338",
+    "project_id": "taskapp-11850",
+    "storage_bucket": "taskapp-11850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666073524338:android:e37838c004eb6f9ec9baeb",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRbHbm_-8IruF3p9GsqKC0QKRKzJVxq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666073524338:android:e94cabf3840c02abc9baeb",
+        "android_client_info": {
+          "package_name": "com.example.todolist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRbHbm_-8IruF3p9GsqKC0QKRKzJVxq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666073524338:android:c917f1c6a280ad57c9baeb",
+        "android_client_info": {
+          "package_name": "com.example.Controle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRbHbm_-8IruF3p9GsqKC0QKRKzJVxq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666073524338:android:e13c6d9b467f3bbec9baeb",
+        "android_client_info": {
+          "package_name": "com.example.tp_dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRbHbm_-8IruF3p9GsqKC0QKRKzJVxq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
